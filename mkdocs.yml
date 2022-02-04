@@ -1,0 +1,24 @@
+site_name: Rautatievalvontajärjestelmän tietokanta
+site_description: Tietokantakurssin harjoitustyö
+site_author: Herkko Mehtälä / JAMK
+
+theme:
+    name: material
+    language: 'en'
+    history_buttons: false
+    article_nav_bottom: false
+    article_nav_top: false
+    palette:
+        scheme: default
+    font:
+        text: 'Fira Sans'
+        code: 'Fira Code'
+nav:
+    - 'index.md'
+    - 'Projektin-vaatimusmäärittely.md'
+    - 'Dokumentaatio.md'
+    - 'SQL-skripti.md'
+    - 'Datan-lisääminen.md'
+    - 'kyselyt.md'
+    - 'Optimointi.md'
+    - 'Itsearviointi.md'
