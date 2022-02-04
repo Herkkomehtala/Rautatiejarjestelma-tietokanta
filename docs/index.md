@@ -8,4 +8,4 @@ Opintojakso: Tietokannat TTC2020
 
 ## Repositorio
 
-* Tämän sivuston repositorion löydät [täältä.](http://wewlad.com)
+* Tämän sivuston repositorion löydät [täältä.](https://github.com/Herkkomehtala/Rautatiejarjestelma-tietokanta)
